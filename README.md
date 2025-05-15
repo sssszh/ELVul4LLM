@@ -1,4 +1,5 @@
-# ELVul4LLM -- An Experimental Evaluation of Ensembling Large Language Models for Vulnerability Detection
+# ELVul4LLM -- Ensembling Large Language Models for Code Vulnerability Detection: An
+Empirical Evaluation
 
 ## 📜 Introduction
 This is an empirical study on the impact of ensemble learning on the performance of LLMs in vulnerability detection.
